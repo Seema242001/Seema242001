@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Seema242001
-- 👀 I’m interested in python,machine learning,cloud computing and web development
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on django framework
+- 👋 Hi, I’m @SeemaR
+- 👀 I’m interested in python(Django), Java(android), machine learning, C++ and web development
+- 🌱 I’m currently working in a startup firm as a software Engineer
+- 💞️ I’m looking to work  on software development fields
 - 📫 How to reach me seemar2411@gmail.com
 
 <!---
